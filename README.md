@@ -11,6 +11,7 @@ En XSLT fil som definierar omvandlingsreglerna från DiVA MODS till Crossref kom
 Samma funktionalitet som i pythonscripten ovan, men skrivna i Java.
 
 För att doireg.py och Doireg.java ska fungera behöves även crossref-upload-tool.jar laddas ner, finns tillgängligt här: https://www.crossref.org/documentation/register-maintain-records/direct-deposit-xml/https-post-using-java-program/
+
 Observera att java måste vara installerat även om du använder pythonscripten.
 
 ## Konfiguration:
