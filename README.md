@@ -30,6 +30,6 @@ Uppdatera depositor_name och email_adress i depositor elementet.
 ## Tillvägagångssätt:
 Ladda ner poster på de publikationer du vill registrera DOI från DIVA i formatet DiVA mods. Döp filen till export.xml och placera i samma mapp som scripten. Kör scriptet. En bekräftelse på deponeringen kommer mailas till den epostadress som angetts i DiVA-CrossRef.xslt.
 
-Du kan ha flera publikationer i samma fil, men du kan inte blanda avhandlingar och rapporter (däremot kan såväl licentiat avhandlingar och doktorsavhandlingar, oavsett om de är monografier eller sammanläggningsavhandlingar). 
+Du kan ha flera publikationer i samma fil, men du kan inte blanda avhandlingar och rapporter (däremot kan du ha olika typer av avhandlingar i samma fil, dvs. licentiat avhandlingar och doktorsavhandlingar, oavsett om de är monografier eller sammanläggningsavhandlingar). 
 
 Observera att publikationer med dokumenttyp "Samlingsverk (redaktörskap)" i DiVA kommer att skickas till Crossref som rapport med redaktörer av skripten.
